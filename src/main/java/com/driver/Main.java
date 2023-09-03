@@ -21,5 +21,4 @@ public class Main {
     int y = p.product(1,2,3);
     double z = p.product(0.1, 0.2);
 
-
 }
